@@ -1,4 +1,4 @@
-# Bike-Share-Rental
+# Bike Share Demand
 Predicting rental count for bike
 
 # Introduction
